@@ -1,3 +1,4 @@
 Hello Nidhulan
 Hi Nidhu
-
+How are you?
+>>>>>>> 49c1d16 (commit from B)
